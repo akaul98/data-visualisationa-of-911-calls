@@ -114,3 +114,5 @@ metric: str, optional. Distance metric to use for the data. See scipy.spatial.di
 
 Conclusion: Different data Visualzation operations can be performed using the Matplotlib tool. Matplotlib is a visualization tool that offers different components called widgets that offer techniques like simple data visualization, subset selection and pre-processing.
 
+You can read my  blog https://adarshprojects.blogspot.com/2020/07/data-visualization-of-911-calls_27.html#more 
+For futher details 
